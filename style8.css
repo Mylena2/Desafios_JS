@@ -1,0 +1,31 @@
+body {
+    font: 16pt;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 25px;
+  }
+  
+  button {
+    font-size: 12pt;
+    padding: 10px 0 5px 0;
+    width: 200px;
+  }
+  
+  h1 {
+    font-size: 35px;
+    margin: 5px 0 15px 5px;
+  }
+
+  .valores {
+    font-size: 18px;
+    padding: 15px;
+  }
+
+  .cabecalho_menu_link {
+    font-family:'Montserrat',sans-serif;
+    font-weight: 600;
+    font-size: 22px;
+    color: #f858c3;
+    text-decoration: none;
+}

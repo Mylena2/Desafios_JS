@@ -1,0 +1,43 @@
+body {
+  font: 16pt;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 25px;
+}
+
+button {
+  font-size: 12pt;
+  padding: 10px;
+  width: 160px;
+}
+
+h1 {
+  font-size: 35px;
+  margin: 5px 0 15px 5px;
+}
+
+.mensagem-acerto {
+  background-color: rgb(185, 255, 80);
+  color: green;
+  display: inline-block;
+}
+
+.mensagem-erro {
+  background-color: rgb(247, 123, 123);
+  color: red;
+  display: inline-block;
+}
+
+.resultado {
+  font-size: 20px;
+}
+
+.cabecalho_menu_link {
+  font-family:'Montserrat',sans-serif;
+  font-weight: 600;
+  font-size: 22px;
+  color: #f858c3;
+  text-decoration: none;
+}
+

@@ -1,0 +1,59 @@
+
+body {
+    font: 12pt;
+}
+
+button {
+    font-size: 12pt;
+    padding: 30px;
+}
+
+body {
+    font: 16pt;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 25px;
+  }
+  
+  button {
+    font-size: 12pt;
+    padding: 10px 0 5px 0;
+    width: 200px;
+  }
+  
+  h1 {
+    font-size: 35px;
+    margin: 5px 0 15px 5px;
+  }
+
+  .mensagem {
+    font-size: 18px;
+    padding: 15px;
+}
+
+.detalhes {
+    color: black;
+}
+
+.marcador.reprovado {
+    background-color: rgb(250, 132, 132);
+    color: red;
+}
+
+.recuperacao {
+    color: orange;
+}
+
+.marcador.aprovado {
+    background-color: rgb(143, 252, 143);
+    color: green;
+}
+
+.cabecalho_menu_link {
+    font-family:'Montserrat',sans-serif;
+    font-weight: 600;
+    font-size: 22px;
+    color: #f858c3;
+    text-decoration: none;
+}

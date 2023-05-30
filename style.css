@@ -1,0 +1,23 @@
+.cabecalho_menu_link {
+    font-family:'Montserrat',sans-serif;
+    font-weight: 600;
+    font-size: 22px;
+    color: #f858c3;
+    text-decoration: none;
+    background-color: black;
+}
+
+.cabecalho{
+    background-color: black;
+    padding:2% 0% 0% 2% ;
+}
+
+.cabecalho_menu {
+   display: flex;
+   flex-direction: column;
+   gap: 15px;
+}
+
+body {
+    background-color: black;
+}
